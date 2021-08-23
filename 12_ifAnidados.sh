@@ -14,7 +14,6 @@ if [ $notaClase -ge 7 ]; then
         echo "Bienvenido al siguiente nivel"
     else
         echo "Gracias por trabajar con nosotros, mucha suerte"
-    fi
 else
     echo "El alumno reprueba la materia"
 fi
